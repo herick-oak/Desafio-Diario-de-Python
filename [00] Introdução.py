@@ -16,7 +16,7 @@ Exercícios divididos em três níveis:
 
 Básico (01-50)
 
-[01] Soma de Dois Números
+[01] Soma de Dois Números [Check]
 [02] Verificar Par ou Ímpar
 [03] Maior entre Dois Números
 [04] Calculadora Simples
